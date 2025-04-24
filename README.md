@@ -48,4 +48,8 @@ WHERE nganh = 'KMT'	Chỉ chọn các sinh viên thuộc ngành "KMT" (có thể
 ORDER BY ten, hodem	Sắp xếp theo tên trước, sau đó đến họ đệm.
 COLLATE Vietnamese_CI_AS	Áp dụng quy tắc sắp xếp theo tiếng Việt có phân biệt trọng âm, để đúng thứ tự bảng chữ cái Việt Nam (phân biệt a, ă, â, e, ê, i, o, ô, ơ, u, ư, y...).
 ![image](https://github.com/user-attachments/assets/a8f88658-5c77-463b-9510-252e0cd0d4a1)
-##
+## HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC)
+EM ĐÃ THÊM gioitinh vao bảng SV  và thêm những giới tính ngẫu nhiên vào danh sách đã có trong bảng tuy là có cẩu thả nhưng đây cũng là cách duy nhất em có thể nghĩ ra mong thầy có thể chấp nhận đc 
+![image](https://github.com/user-attachments/assets/75c7cf70-2e78-41af-a9c1-db1e3e47dd4e)
+
+
